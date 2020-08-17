@@ -1,0 +1,36 @@
+
+.containerBody2{
+
+    
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: 'no-repeat';
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    position: relative;
+
+
+}
+
+
+
+
+
+.textheader{
+
+    
+  color: white;
+  font-size: 14.7px;
+font-family: "Gotham-Medium","Helvetica Neue","sans-serif";
+letter-spacing: .3em;
+}
+
+
+
+
+
+
+
+
